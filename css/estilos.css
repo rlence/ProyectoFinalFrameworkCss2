@@ -1,0 +1,70 @@
+header{
+    margin:0px !important;
+    width: 100% !important;
+}
+
+div {
+    margin: 0px !important;
+    padding: 0px !important;
+   
+}
+
+.logo{
+    width: 70% !important;
+}
+
+.navegacion {
+    width: 100% !important;
+    
+}
+
+/* parte 1 de la pag */ 
+
+.icons{
+    width: 70%;
+    padding: 1em;
+    
+}
+
+.fotocentral{
+    padding: 1em;
+    width: 100% !important;
+}
+
+.paisajes{
+    padding: 1em;
+    width: 100% !important;
+}
+
+.ciudad{
+    padding: 1em;
+    width: 100% !important;
+}
+
+.articulo{
+    padding: 1em !important;
+}
+
+/*perfil */
+
+.piedeblog{
+    width: 100%;
+}
+
+.areaperfil{
+    border: solid 1px black;
+    margin-top: 1em !important;
+    padding: 1em !important;
+    height: 38em !important;
+    background-color: rgba(199, 191, 191, 0.801);
+}
+
+
+.perfil{
+    width: 40% !important;
+    
+}
+
+.textop {
+    text-align: justify !important;
+}
